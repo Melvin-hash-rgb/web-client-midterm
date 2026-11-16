@@ -1,0 +1,1 @@
+My name is Bamen Melvin Junior. I am a student in Computer Science Technology Programming at College LaSalle in Montreal. I am learning web development, HTML, CSS and Git. I like creating projects with artificial intelligence.
